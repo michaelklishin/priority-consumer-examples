@@ -21,6 +21,8 @@ to use separate thread pools for deliveries), and two queues, e.g.
 
 Then add a consumer or multiple consumers to each queue.
 
+[HiLoPriorityConsumers](./hilo-consumer/src/main/java/com/novemberain/consumers/HiLoPriorityConsumers.java) demonstrates this approach.
+
 
 ## License & Copyright
 
